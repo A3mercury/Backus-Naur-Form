@@ -1,0 +1,9 @@
+x = 4
+PRINT(x)
+z = x + y
+PRINT(z)
+z : y
+y = x + x
+z = x + y + y – y
+PRINT(z)
+HALT
